@@ -1,5 +1,5 @@
 
-# *Null Model Paradigm (NMP)：大模型私域校验层*
+# *Null Model Paradigm (NMP)：可执行的核心范式*
 
 ——*智能机器人与自动驾驶等智能领域的确定性兜底方案*
 
