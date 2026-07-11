@@ -23,7 +23,7 @@ date-released: 2026-07-10
 keywords:
   - "large language model"
   - "hallucination"
-  - "guardian-shell"
+  - "hallucination constraint shell（幻觉紧箍咒）"
   - "null-model-paradigm（NMP）"
   - "meta-fact"
   - "constraint-priority"
