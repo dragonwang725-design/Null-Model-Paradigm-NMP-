@@ -169,7 +169,7 @@ Apache-2.0
 
 ##  八、引用
 >
-> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281431.svg)](https://doi.org/10.5281/zenodo.21281431)
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281430.svg)](https://doi.org/10.5281/zenodo.21281430)
 >
 > https://orcid.org/0009-0004-5919-8856
 ---
