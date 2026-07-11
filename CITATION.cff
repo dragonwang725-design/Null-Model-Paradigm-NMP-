@@ -13,13 +13,13 @@ authors:
     alias: "loweswang"
     email: "250734099@qq.com"
 repository-code: "https://github.com/dragonwang725-design/null-model-Paradigm-"
-license: Apache-2.0
+license: MIT
 version: 1.0.0
 date-released: 2026-07-10
 # 注意：
 # doi: 10.5281/zenodo.20715011
 # doi: 10.5281/zenodo.20793637
-# doi: 10.5281/zenodo.21281431
+# doi: 10.5281/zenodo.21281430
 keywords:
   - "large language model"
   - "hallucination"
