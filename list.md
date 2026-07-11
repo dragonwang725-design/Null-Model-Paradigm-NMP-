@@ -1,7 +1,7 @@
 #  *TDA 三层双视角辩证架构设计文档目录*
 *—— （Three-layer Dual-perspective Asymmetric）*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281431.svg)](https://doi.org/10.5281/zenodo.21281431)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281430.svg)](https://doi.org/10.5281/zenodo.21281430)
 #
 
 #### 前言：从"安检门"到"司法体系"  
