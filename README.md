@@ -85,7 +85,7 @@ TDA 架构的完整实现需要跨行业、跨领域的长期协作：
 
 ```bash
 # 1. 克隆仓库
-git clone (https://github.com/dragonwang725-design/Null-Model-Paradigm-NMP-).git
+git clone https://github.com/dragonwang725-design/Null-Model-Paradigm-NMP-.git
 cd nmp
 
 # 2. 安装依赖
