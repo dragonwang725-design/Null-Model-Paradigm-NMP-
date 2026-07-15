@@ -1,6 +1,8 @@
 # *Null Model Paradigm (NMP)*
 >
 > ***—— 知识是动力，目的是方向，而事实是方向盘***。
+>
+>***—— 事实是判断的依据***。
 
 #
 OpenAI最新发表并被称为"开创性论文"的《Why Language Models Hallucinate》https://arxiv.org/abs/2509.04664
