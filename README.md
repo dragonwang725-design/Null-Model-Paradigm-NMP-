@@ -5,7 +5,7 @@
 >***—— 事实是判断的依据***。
 
 #
-OpenAI最新发表并被称为"开创性论文"的《Why Language Models Hallucinate》https://arxiv.org/abs/2509.04664
+OpenAI最新发表并被称为"开创性论文"的《*Why Language Models Hallucinate*》https://arxiv.org/abs/2509.04664
 
 洋洋洒洒貌似精辟地分析了各种原因，并号称给出了解决方向，但这些分析，本质上仍然停留在"知其然"的层面，而没有真正回答"为什么会这样"的根本问题，也因此根本没有给出真正解决问题的具体办法——换个说法，给出的办法根本没有解决问题。
 
